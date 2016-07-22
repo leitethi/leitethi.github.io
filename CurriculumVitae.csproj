@@ -16,6 +16,7 @@
     <IISExpressAnonymousAuthentication />
     <IISExpressWindowsAuthentication />
     <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
   </PropertyGroup>
   <ItemGroup>
     <Content Include="css\app.css" />
@@ -23,6 +24,7 @@
     <Content Include="css\font-awesome.min.css" />
     <Content Include="css\normalize.css" />
     <Content Include="fonts\fontawesome-webfont.svg" />
+    <Content Include="index-ptbr.html" />
     <Content Include="index.html" />
     <Content Include="web.config" />
   </ItemGroup>
